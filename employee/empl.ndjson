@@ -1,0 +1,134 @@
+{"id":"ach","family":"Henriksen","given":"Ann-Cecilie","unit":"INSPM","pubs":0}
+{"id":"aen","family":"Enok","given":"Anita","unit":"STABS","pubs":0}
+{"id":"aev","family":"Evenset","given":"Anita","unit":"LEDELS","name":"EVENSET A","pubs":36}
+{"id":"agi","family":"Giæver","given":"Anton","unit":"LEDELS","pubs":0}
+{"id":"agu","family":"Gustavsson","given":"Arnthor","unit":"INNOV","pubs":0}
+{"id":"ahz","family":"Harendza","given":"Astrid","unit":"PRODB","name":"HARENDZA A","pubs":2}
+{"id":"aig","family":"Guneriussen","given":"Asle","unit":"INSPM","pubs":0}
+{"id":"aki","family":"Imsland","given":"Albert","unit":"LEDELS","name":"IMSLAND A","pubs":154}
+{"id":"amn","family":"Nes","given":"Armand Moe","unit":"FISK","name":"NES A","pubs":1}
+{"id":"anb","family":"Bambulyak","given":"Alexei","unit":"SENSE","name":"BAMBULYAK A","pubs":11}
+{"id":"ara","family":"Randelhoff","given":"Achim","unit":"OSEAN","name":"RANDELHOFF A","pubs":20}
+{"id":"ata","family":"Aasen","given":"Anne Tårånd","unit":"OSEAN","name":"AASEN A","pubs":1}
+{"id":"atf","family":"Foss","given":"Atle","unit":"INNOV","name":"FOSS A","pubs":75}
+{"id":"avn","family":"Nytro","given":"Ane Vigdisdatter","unit":"INNOV","pubs":0}
+{"id":"avs","family":"Sikorski","given":"Andrej","unit":"BIOLT","name":"SIKORSKI A","pubs":21}
+{"id":"beb","family":"Bye","given":"Bjørn Erik","unit":"INSPM","pubs":0}
+{"id":"bhw","family":"Worum","given":"Bård Harald","unit":"PRODB","pubs":0}
+{"id":"bla","family":"Laxdal","given":"Bernhard","unit":"INNOV","pubs":0}
+{"id":"bme","family":"Merkel","given":"Benjamin","unit":"ØKOSY","name":"MERKEL B","pubs":21}
+{"id":"cab","family":"Ballantine","given":"Carl","unit":"FISLOG","name":"BALLANTINE C","pubs":3}
+{"id":"che","family":"Helgeland","given":"Conrad","unit":"MILPÅ","pubs":0}
+{"id":"chp","family":"Pedersen Ugelstad","given":"Charlotte","unit":"BIOLT","pubs":0}
+{"id":"clh","family":"Halsband","given":"Claudia","unit":"ØKOSY","name":"HALSBAND C","pubs":46}
+{"id":"cse","family":"Emblow","given":"Chris","unit":"UTRED","name":"EMBLOW C","pubs":3}
+{"id":"cst","family":"Stephansen","given":"Cathrine","unit":"SENSE","name":"STEPHANSEN C","pubs":4}
+{"id":"ctw","family":"Weber","given":"Charlotte Teresa","unit":"MILPÅ","name":"WEBER C","pubs":1}
+{"id":"dah","family":"Hammenstig","given":"David","unit":"UTRED","pubs":0}
+{"id":"edh","family":"Holand","given":"Eirik Darell","unit":"UTRED","pubs":0}
+{"id":"ejw","family":"Watts","given":"Ellie Jane","unit":"FISK","name":"WATTS E","pubs":2}
+{"id":"elb","family":"Børve","given":"Eli","unit":"OSEAN","name":"BØRVE E","pubs":5}
+{"id":"elo","family":"Lorentzen","given":"Evgenija","unit":"KJEMI","name":"LORENTZEN E","pubs":3}
+{"id":"esy","family":"Synvis","given":"Eva","unit":"INSPM","pubs":0}
+{"id":"esz","family":"Sztybor","given":"Emilia","unit":"FISK","pubs":0}
+{"id":"eva","family":"Leu","given":"Eva","unit":"ØKOSY","name":"LEU E","pubs":42}
+{"id":"fga","family":"Gaardsted","given":"Frank","unit":"OSEAN","name":"GAARDSTED F","pubs":2}
+{"id":"frb","family":"Beuchel","given":"Frank","unit":"ØKOSY","name":"BEUCHEL F","pubs":5}
+{"id":"gba","family":"Bahr","given":"Gjermund","unit":"PRODB","pubs":0}
+{"id":"gdh","family":"Dahl-Hansen","given":"Geir","unit":"UTRED","name":"DAHL-HANSEN G","pubs":5}
+{"id":"ghr","family":"Refseth","given":"Gro Harlaug","unit":"MILPÅ","name":"REFSETH G","pubs":1}
+{"id":"gms","family":"Skeie","given":"Geir Morten","unit":"SENSE","name":"SKEIE G","pubs":5}
+{"id":"gnc","family":"Christensen","given":"Guttorm","unit":"LEDELS","name":"CHRISTENSEN G","pubs":41}
+{"id":"gwl","family":"Lorås","given":"Gyda Wuttudal","unit":"INSPM","pubs":0}
+{"id":"hem","family":"Emaus","given":"Heidi","unit":"LEDELS","pubs":0}
+{"id":"hes","family":"Espenes","given":"Håvard","unit":"OSEAN","pubs":0}
+{"id":"HJB","family":"Buschmann","given":"Håvard Johnsen","unit":"FISLOG","pubs":0}
+{"id":"hkd","family":"Djuve","given":"Hans Kristian","unit":"OSEAN","pubs":0}
+{"id":"hpm","family":"Mannvik","given":"Hans Petter","unit":"UTRED","name":"MANNVIK H","pubs":1}
+{"id":"ibo","family":"Bottolfsen","given":"Ilka","unit":"BIOLT","pubs":0}
+{"id":"idh","family":"Dahl-Hansen","given":"Ida","unit":"UTRED","pubs":0}
+{"id":"ihw","family":"Wasbotten","given":"Ingar","unit":"KJEMI","pubs":0}
+{"id":"imb","family":"Berger","given":"Inger Margrethe","unit":"STABS","pubs":0}
+{"id":"jbj","family":"Blomli Johnsen","given":"Janne","unit":"KJEMI","pubs":0}
+{"id":"Jen","family":"Jensen","given":"Jenny","unit":"ØKOSY","name":"JENSEN J","pubs":6}
+{"id":"jha","family":"Hansen","given":"Jesper","unit":"BIOLT","name":"HANSEN J","pubs":8}
+{"id":"jhi","family":"Iversen","given":"Jørn Håvard","unit":"STABS","pubs":0}
+{"id":"jhp","family":"Palerud","given":"Jocelyn","unit":"BIOLT","name":"PALERUD J","pubs":2}
+{"id":"jju","family":"Juselius","given":"Jonas","unit":"OSEAN","name":"JUSELIUS J","pubs":2}
+{"id":"jlc","family":"Carroll","given":"JoLynn","unit":"LEDELS","name":"CARROLL J","pubs":83}
+{"id":"jon","family":"Nikolaisen","given":"Jonny","unit":"PRODB","pubs":0}
+{"id":"jwk","family":"Kögeler","given":"Jos","unit":"STABS","name":"KÖGELER J","pubs":6}
+{"id":"kaj","family":"Jenssen","given":"Kai Arne","unit":"STABS","pubs":0}
+{"id":"kbo","family":"Pedersen","given":"Kristine Bondo","unit":"MILPÅ","name":"PEDERSEN K","pubs":18}
+{"id":"khs","family":"Sperre","given":"Kristine Hopland","unit":"BIOLT","name":"SPERRE K","pubs":1}
+{"id":"kis","family":"Isaksen","given":"Kirsti","unit":"STABS","name":"ISAKSEN K","pubs":1}
+{"id":"kpb","family":"Bluhm","given":"Katrin","unit":"ØKOSY","name":"BLUHM K","pubs":1}
+{"id":"krs","family":"Steffensen","given":"Kristine","unit":"INSPM","pubs":0}
+{"id":"ksa","family":"Sagerup","given":"Kjetil","unit":"MILPÅ","name":"SAGERUP K","pubs":17}
+{"id":"kst","family":"Sæther","given":"Kristin","unit":"PRODB","name":"SÆTHER K","pubs":1}
+{"id":"ksz","family":"Sztybor","given":"Kamila","unit":"BIOLT","name":"SZTYBOR K","pubs":3}
+{"id":"lbs","family":"Sjetne","given":"Lars","unit":"INSPM","pubs":0}
+{"id":"lca","family":"Camus","given":"Lionel","unit":"DIGIS","name":"CAMUS L","pubs":74}
+{"id":"lhl","family":"Larsen","given":"Lars-Henrik","unit":"UTRED","name":"LARSEN L","pubs":9}
+{"id":"lit","family":"Torske","given":"Lisa","unit":"KJEMI","pubs":0}
+{"id":"lka","family":"Kapari","given":"Lauri","unit":"FISK","name":"KAPARI L","pubs":2}
+{"id":"los","family":"Sparboe","given":"Lars Olav","unit":"PRODB","name":"SPARBOE L","pubs":2}
+{"id":"lut","family":"Tassara","given":"Luca","unit":"MILPÅ","name":"TASSARA L","pubs":8}
+{"id":"mad","family":"Drivdal","given":"Magnus","unit":"OSEAN","name":"DRIVDAL M","pubs":8}
+{"id":"mar","family":"Arnberg","given":"Maj","unit":"MILPÅ","name":"ARNBERG M","pubs":3}
+{"id":"mbd","family":"Dunn","given":"Muriel Barbara","unit":"MILPÅ","pubs":0}
+{"id":"mfr","family":"Frantzen","given":"Marianne","unit":"LEDELS","name":"FRANTZEN M","pubs":27}
+{"id":"mkr","family":"Kristiansen","given":"Merete","unit":"LEDELS","pubs":0}
+{"id":"mlc","family":"Carroll","given":"Michael","unit":"ØKOSY","name":"CARROLL M","pubs":60}
+{"id":"mre","family":"Remen","given":"Mette","unit":"INNOV","name":"REMEN M","pubs":11}
+{"id":"mst","family":"Stefanussen","given":"Merete","unit":"STABS","pubs":0}
+{"id":"mth","family":"Thorstensen","given":"Morten","unit":"FISLOG","pubs":0}
+{"id":"mva","family":"Alonso","given":"Marina Vàzquez","unit":"BIOLT","pubs":0}
+{"id":"maa","family":"Aune","given":"Magnus","unit":"ØKOSY","name":"AUNE M","pubs":9}
+{"id":"oan","family":"Nøst","given":"Ole Anders","unit":"OSEAN","name":"NØST O","pubs":17}
+{"id":"obw","family":"Wilhelmsen","given":"Oda Sofie Bye","unit":"KJEMI","pubs":0}
+{"id":"odj","family":"Jonsdottir","given":"Olof","unit":"INNOV","pubs":0}
+{"id":"oji","family":"Isaksen","given":"Oddmund","unit":"FISLOG","pubs":0}
+{"id":"okb","family":"Kvaal Brandshaug","given":"Ola","unit":"PRODB","pubs":0}
+{"id":"oyl","family":"Leikvin","given":"Øyvind","unit":"OSEAN","name":"LEIKVIN Ø","pubs":2}
+{"id":"pae","family":"Emaus","given":"Per-Arne","unit":"PRODB","name":"EMAUS P","pubs":3}
+{"id":"paw","family":"White","given":"Patrick","unit":"PRODB","name":"WHITE P","pubs":2}
+{"id":"pbl","family":"Blévin","given":"Pierre","unit":"MILPÅ","name":"BLÉVIN P","pubs":27}
+{"id":"per","family":"Renaud","given":"Paul","unit":"LEDELS","name":"RENAUD P","pubs":129}
+{"id":"pgh","family":"Ghaffari","given":"Peygham","unit":"OSEAN","name":"GHAFFARI P","pubs":9}
+{"id":"pml","family":"Mikelborg Larsen","given":"Petter","unit":"STABS","pubs":0}
+{"id":"qin","family":"Zhou","given":"Qin","unit":"OSEAN","name":"ZHOU Q","pubs":7}
+{"id":"rap","family":"Pettersen","given":"Ragnhild","unit":"ØKOSY","name":"PETTERSEN R","pubs":4}
+{"id":"ref","family":"Fieler","given":"Reinhold","unit":"INNOV","name":"FIELER R","pubs":5}
+{"id":"rfr","family":"Fredriksen","given":"Rosalyn","unit":"UTRED","name":"FREDRIKSEN R","pubs":1}
+{"id":"rpa","family":"Palerud","given":"Rune","unit":"UTRED","name":"PALERUD R","pubs":7}
+{"id":"rst","family":"Stabell","given":"Rikke","unit":"INSPM","pubs":0}
+{"id":"rur","family":"Rautio","given":"Rune","unit":"UTRED","name":"RAUTIO R","pubs":2}
+{"id":"rve","family":"Velvin","given":"Roger","unit":"UTRED","name":"VELVIN R","pubs":2}
+{"id":"sda","family":"Dahle","given":"Salve","unit":"DIGIS","name":"DAHLE S","pubs":51}
+{"id":"sde","family":"Eriksen","given":"Steinar Dalheim","unit":"INSPM","pubs":0}
+{"id":"sfp","family":"Falk-Petersen","given":"Stig","unit":"ØKOSY","name":"FALK-PETERSEN S","pubs":160}
+{"id":"sgu","family":"Gunnarsson","given":"Snorri","unit":"INNOV","name":"GUNNARSSON S","pubs":28}
+{"id":"she","family":"Hermansen","given":"Stine","unit":"OSEAN","pubs":0}
+{"id":"skc","family":"Cochrane","given":"Sabine","unit":"ØKOSY","name":"COCHRANE S","pubs":30}
+{"id":"sma","family":"Matsson","given":"Sanna","unit":"INNOV","name":"MATSSON S","pubs":4}
+{"id":"sta","family":"Augustine","given":"Starrlight","unit":"ØKOSY","name":"AUGUSTINE S","pubs":22}
+{"id":"svl","family":"Larsen","given":"Sondre Veberg","unit":"INNOV","name":"LARSEN S","pubs":2}
+{"id":"tah","family":"Hangstad","given":"Thor Arne","unit":"FISK","name":"HANGSTAD T","pubs":22}
+{"id":"tbo","family":"Borch","given":"Trude","unit":"MILPÅ","name":"BORCH T","pubs":5}
+{"id":"thh","family":"Hansen","given":"Thomas","unit":"BIOLT","name":"HANSEN T","pubs":10}
+{"id":"tko","family":"Øvrebo","given":"Tarald","unit":"INNOV","pubs":0}
+{"id":"tmj","family":"Jonassen","given":"Thor Magne","unit":"INNOV","name":"JONASSEN T","pubs":24}
+{"id":"tom","family":"Sørnes","given":"Tom","unit":"SENSE","name":"SØRNES T","pubs":2}
+{"id":"tos","family":"Skålsvik","given":"Tormod Henry","unit":"PRODB","pubs":0}
+{"id":"tri","family":"Ivarjord","given":"Trond","unit":"INNOV","name":"IVARJORD T","pubs":2}
+{"id":"tvg","family":"Vollstad-Giæver","given":"Terese","unit":"FISK","pubs":0}
+{"id":"vho","family":"Holen","given":"Vegard","unit":"INSPM","pubs":0}
+{"id":"vra","family":"Ramasco","given":"Virginie","unit":"MILPÅ","name":"RAMASCO V","pubs":3}
+{"id":"vre","family":"Remen","given":"Vera","unit":"INSPM","pubs":0}
+{"id":"vsa","family":"Savinov","given":"Vladimir","unit":"BIOLT","name":"SAVINOV V","pubs":15}
+{"id":"wkr","family":"Kristiansen","given":"William","unit":"FISK","pubs":0}
+{"id":"yns","family":"Svensby","given":"Yngve","unit":"FISLOG","pubs":0}
+{"id":"ysh","family":"Shen","given":"Yugao","unit":"OSEAN","pubs":0}
+{"id":"aar","family":"Arriola","given":"Aline","unit":"BIOLT","name":"ARRIOLA A","pubs":1}
+{"id":"aav","family":"Vikhrova","given":"Anna Andreevna","unit":"FISK","pubs":0}

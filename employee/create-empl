@@ -1,0 +1,3 @@
+#!/bin/bash
+cat ../../empl/empl.ndjson empl.ndjson  | nd-group 'd.email ? d.email.split("@")[0] : d.id' | nd-filter 'd[1].length===2' | nd-map '[one,two]=d[1],Object.assign(one,two)' > _empl2.ndjson 
+cat _empl2.ndjson | nd-group 1 | nd-map 'd[1]' | nd-map 'log(`const s = \`${stringify(d)}\`;\nexport const empl = JSON.parse(s);`), undefined' > empl.js
